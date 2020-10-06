@@ -1,0 +1,2 @@
+# colourGuessingGame
+JS practice exercise
